@@ -1,0 +1,28 @@
+body {
+  color: white;
+}
+
+.div1 {
+  background-color:#F012BE;
+  height: 500px;
+}
+.div2 {
+  background-color: #39CCCC;
+  height: 500px;  
+}
+
+.login-container {
+  background: rgba(1, 1, 1, 0.5);
+  border-radius:5px;
+  margin-top: 0px;
+  height: 85%;
+}
+
+.formbox {
+  margin-top: 0px;
+}
+
+.vl {
+  border-left: 1px solid white;
+  height: 500px;
+}
