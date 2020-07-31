@@ -8,11 +8,11 @@ body {
 }
 .div2 {
   background-color: #39CCCC;
-  height: 500px;  
+  height: 500px;
 }
 
 .login-container {
-  background: rgba(1, 1, 1, 0.5);
+  background: rgba(1, 1, 1, 0.2);
   border-radius:5px;
   margin-top: 0px;
   height: 85%;
